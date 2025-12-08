@@ -18,5 +18,5 @@ function calculate(){
 
 }
 yyf
-gkl
+
 
