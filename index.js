@@ -16,4 +16,3 @@ function calculate(){
 }
 vj
 jhgkjkjlk
-hgvjhbk
