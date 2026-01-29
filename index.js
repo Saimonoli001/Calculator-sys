@@ -15,4 +15,3 @@ function calculate(){
 }
 }
 vj
-jhgkjkjlk
