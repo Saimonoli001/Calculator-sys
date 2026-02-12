@@ -14,5 +14,4 @@ function calculate(){
     }
 }
 }
-hjlk;
-j
+hjl
